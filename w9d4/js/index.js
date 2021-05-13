@@ -1,3 +1,6 @@
+require qs = ('querystring');
+require http = ('http');
+
 console.log("Hello from the JavaScript console!");
 
 // Your AJAX request here
